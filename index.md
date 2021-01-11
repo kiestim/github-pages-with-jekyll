@@ -1,4 +1,4 @@
-## Welcome to my blog (index.md)
+Welcome to my blog (index.md)
 
 I'm glad you are here. I plan to talk about ...
 <details>
