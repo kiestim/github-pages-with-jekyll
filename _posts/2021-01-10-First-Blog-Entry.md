@@ -1,5 +1,5 @@
 ---
-title: "First Blog Entry"
+title: "First Blog Entry (metadata)"
 date: 2021-01-10
 ---
 
