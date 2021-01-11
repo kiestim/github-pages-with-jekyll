@@ -1,3 +1,8 @@
+---
+title: "First Blog Entry"
+date: 2021-01-10
+---
+
 # First Blog Entry
 
 - [x] Blog Entry
